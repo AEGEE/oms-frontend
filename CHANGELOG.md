@@ -1,3 +1,73 @@
+# [1.23.0](https://github.com/AEGEE/frontend/compare/1.22.6...1.23.0) (2021-02-08)
+
+
+### Features
+
+* **general:** prompt for invalid users ([#700](https://github.com/AEGEE/frontend/issues/700)) ([ede14d2](https://github.com/AEGEE/frontend/commit/ede14d20984048e1e3b83cfbcc45ab57c04e210f)), closes [#703](https://github.com/AEGEE/frontend/issues/703) [#676](https://github.com/AEGEE/frontend/issues/676) [#678](https://github.com/AEGEE/frontend/issues/678) [#680](https://github.com/AEGEE/frontend/issues/680) [#684](https://github.com/AEGEE/frontend/issues/684) [#687](https://github.com/AEGEE/frontend/issues/687) [#689](https://github.com/AEGEE/frontend/issues/689) [#690](https://github.com/AEGEE/frontend/issues/690) [#688](https://github.com/AEGEE/frontend/issues/688) [#691](https://github.com/AEGEE/frontend/issues/691) [#692](https://github.com/AEGEE/frontend/issues/692) [#695](https://github.com/AEGEE/frontend/issues/695) [#696](https://github.com/AEGEE/frontend/issues/696) [#697](https://github.com/AEGEE/frontend/issues/697) [#698](https://github.com/AEGEE/frontend/issues/698) [#694](https://github.com/AEGEE/frontend/issues/694) [#699](https://github.com/AEGEE/frontend/issues/699)
+
+## [1.22.6](https://github.com/AEGEE/frontend/compare/1.22.5...1.22.6) (2021-02-08)
+
+
+### Bug Fixes
+
+* **user:** allow users to choose notification email. Fixes MA-134 ([#722](https://github.com/AEGEE/frontend/issues/722)) ([8ad404a](https://github.com/AEGEE/frontend/commit/8ad404a2175bf9e730837dc3e21304979bd4b5ef))
+
+## [1.22.5](https://github.com/AEGEE/frontend/compare/1.22.4...1.22.5) (2021-02-08)
+
+
+### Bug Fixes
+
+* **network:** add network module to status and about ([#701](https://github.com/AEGEE/frontend/issues/701)) ([0b6d8ad](https://github.com/AEGEE/frontend/commit/0b6d8ad174ca8ff6e15f61bf279a1b463742e5e8))
+
+## [1.22.4](https://github.com/AEGEE/frontend/compare/1.22.3...1.22.4) (2021-02-08)
+
+
+### Bug Fixes
+
+* **events:** only display events you are going to. Fixes HELP-1477 ([#858](https://github.com/AEGEE/frontend/issues/858)) ([66d5d52](https://github.com/AEGEE/frontend/commit/66d5d529475fda25880ef762eb75eb5041873085))
+
+## [1.22.3](https://github.com/AEGEE/frontend/compare/1.22.2...1.22.3) (2021-02-05)
+
+
+### Bug Fixes
+
+* **SU:** fix one small fix differently ([#861](https://github.com/AEGEE/frontend/issues/861)) ([3526531](https://github.com/AEGEE/frontend/commit/35265313d10c4a436d58f276aeb475314a8d9b4f))
+
+## [1.22.2](https://github.com/AEGEE/frontend/compare/1.22.1...1.22.2) (2021-02-05)
+
+
+### Bug Fixes
+
+* **SU:** more small fixes ([#860](https://github.com/AEGEE/frontend/issues/860)) ([b62748d](https://github.com/AEGEE/frontend/commit/b62748d1918af7de4c86b6eddf1df1c9eb692ca0))
+
+## [1.22.1](https://github.com/AEGEE/frontend/compare/1.22.0...1.22.1) (2021-02-05)
+
+
+### Bug Fixes
+
+* **SU:** small fixes ([#859](https://github.com/AEGEE/frontend/issues/859)) ([0ffcb68](https://github.com/AEGEE/frontend/commit/0ffcb689fdbc68cedbeb25c4051f482e59aea960))
+
+# [1.22.0](https://github.com/AEGEE/frontend/compare/1.21.2...1.22.0) (2021-02-05)
+
+
+### Features
+
+* **SU:** MVP SU creation ([#850](https://github.com/AEGEE/frontend/issues/850)) ([fe0b541](https://github.com/AEGEE/frontend/commit/fe0b541ecaca67f30ab44bcbd638ffbb6422ca8b))
+
+## [1.21.2](https://github.com/AEGEE/frontend/compare/1.21.1...1.21.2) (2021-01-26)
+
+
+### Bug Fixes
+
+* **resources:** add request a trainer. Fixes HELP-1459 ([#824](https://github.com/AEGEE/frontend/issues/824)) ([fd8b853](https://github.com/AEGEE/frontend/commit/fd8b8533adc7e5e8ebbfe814c297b752cbabdeb0)), closes [#811](https://github.com/AEGEE/frontend/issues/811)
+
+## [1.21.1](https://github.com/AEGEE/frontend/compare/1.21.0...1.21.1) (2020-12-08)
+
+
+### Bug Fixes
+
+* **position:** display page correctly when there are no positions ([#753](https://github.com/AEGEE/frontend/issues/753)) ([9a16855](https://github.com/AEGEE/frontend/commit/9a168550056258bb6e7fb792e87ff298e5bba4ea))
+
 # [1.21.0](https://github.com/AEGEE/frontend/compare/1.20.4...1.21.0) (2020-11-30)
 
 
